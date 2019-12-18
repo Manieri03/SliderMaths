@@ -60,7 +60,7 @@ namespace SliderMaths
             txtsom.Text = somma.ToString();
 
             
-            double molt = n1 * n2;
+            double molt = n1 * n2 ;
             txtmol.Text = molt.ToString();
 
             double sot = n1 - n2;
